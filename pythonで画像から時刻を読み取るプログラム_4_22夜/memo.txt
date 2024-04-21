@@ -1,0 +1,6 @@
+Yahoo.Zikokuをメインに書いてる。他のは試しのプログラム
+pip install pyocr
+pip install opencv-python
+pip install numpy
+
+tesseractをネットからインストールして、ファイルの場所を覚えておく8
